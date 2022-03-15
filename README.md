@@ -4,12 +4,7 @@ The idea behind this booklet is twofold: First, we want to reinforce these first
 
 This booklet is accompanied by a solution manual containing example solutions for all problems. To facilitate re-usage of the material, all source files (Latex files and images) are shared. All material including the pdf file of this document can be downloaded from the following GitHub repository: https://github.com/eesd-epfl/Statique_I.git
 
-Katrin Beyer
-Baptiste Vincens
-Igor Tomić
-Earthquake Engineering and Structural Dynamics Laboratory (EESD)
-School of Architecture, Civil and Environmental Engineering (ENAC)
-
+Katrin Beyer, Baptiste Vincens, Igor Tomić. Earthquake Engineering and Structural Dynamics Laboratory (EESD), School of Architecture, Civil and Environmental Engineering (ENAC)
 
 
 
