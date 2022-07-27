@@ -1,5 +1,6 @@
 ﻿
 [Exercice booklet](https://github.com/eesd-epfl/Statique_I/blob/main/Statique_booklet.pdf)
+
 [Solutions](https://github.com/eesd-epfl/Statique_I/wiki)
  
  
