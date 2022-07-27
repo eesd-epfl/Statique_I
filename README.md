@@ -1,7 +1,7 @@
 ﻿
-'[Exercice booklet](https://github.com/eesd-epfl/Statique_I/blob/main/Statique_booklet.pdf)'
+__[Exercice booklet](https://github.com/eesd-epfl/Statique_I/blob/main/Statique_booklet.pdf)__
 
-'[Solutions](https://github.com/eesd-epfl/Statique_I/wiki)'
+__[Solutions](https://github.com/eesd-epfl/Statique_I/wiki)__
  
  
 The first course of structural mechanics in any civil engineering curriculum introduces important principles, such as the free body diagram, static equilibrium and the internal forces in structural members, and then applies these principles to statically determinate systems. At EPFL, these concepts are taught in the course Statique I in the second semester of the Bachelor curriculum (BA2). This introductory course lays the foundation to many other civil engineering courses, and engineers in practice or research who design or analyse any type of structure need to have these techniques and concepts at their fingertips.
